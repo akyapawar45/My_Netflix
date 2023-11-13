@@ -1,0 +1,17 @@
+
+
+
+  .genres {
+    display: flex;
+    gap: 5px;
+    .genre {
+        background-color: var(--pink);
+        padding: 3px 5px;
+        font-size: 13px;
+        font-weight: 700;
+       font-family: NotoSansBold,sans-serif;
+        border-radius: 4px;
+        color: rgb(0, 0, 0);
+        white-space: nowrap;
+    }
+}
